@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testRxJava</string>
+    <string name="change">改变内容</string>
+</resources>
